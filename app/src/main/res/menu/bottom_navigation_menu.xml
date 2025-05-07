@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_log"
+        android:icon="@drawable/baseline_draw_24"
+        android:title="Log" />
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/outline_format_list_bulleted_24"
+        android:title="History" />
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/baseline_auto_graph_24"
+        android:title="Dashboard" />
+</menu>

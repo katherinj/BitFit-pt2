@@ -23,4 +23,6 @@ interface SleepLogDao {
     @Update
     fun updateSleepLog(sleepLog: SleepLogEntity)
 
+    @Query("SELECT * FROM sleep_logs WHERE date = :selectedDate LIMIT 1")
+    fun getSleepLogByDate(selectedDate: String): Flow<SleepLogEntity?>
 }

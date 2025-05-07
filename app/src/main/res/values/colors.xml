@@ -8,7 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="colorPrimary">#4CAF50</color>
-    <color name="colorPrimaryDark">#388E3C</color>
-    <color name="colorAccent">#FFC107</color>
+    <color name="colorPrimary">#B0A8B9</color>
+    <color name="greyish_beige">#B0A8B9</color>
+    <color name="muted_grey">#8A8297</color>
+    <color name="soft_pink_grey">#D6C6DC</color>
+    <color name="warm_taupe_grey">#A89BA9</color>
+
 </resources>
